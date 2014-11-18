@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="item_text">New CheckBox</string>
+    <string name="item_edit_btn_text">Edit</string>
+    <string name="extra_message_text">text</string>
+    <string name="extra_message_new_purchase">new_purchase</string>
+    <string name="extra_message_old_text">old_text</string>
+</resources>
